@@ -1,5 +1,5 @@
 # DAD
-DAD/[Do's and Dont's] for Machine Learning Engineers
+DAD/[Do's and Dont's] in Machine Learning Engineers
 
 # Motivation
 [I](https://github.com/Sreerag-ibtl) am someone with an intermediate expertise in the field of machine learning. I used to fall victim for my own stupidities such as wrong architecture choices, selection of wrong api's, bug in custom losses, misinterpreting a frameworks design principle, no idea how to traina a no bias model, how to do proper feature engineering, how to do hyperparameter optimization, lack of knowledge about the best practices, project management etc etc. I needed a way to improve my skills and in the mean time be helpfull to the fellow learners. 
